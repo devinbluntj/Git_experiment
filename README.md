@@ -1,3 +1,3 @@
 # Demonstration 
 
-Practicin git
+Practicing git
